@@ -1,7 +1,7 @@
 # Rain Prediction Using AutoMl
 
 A web application built with FastAPI and PyCaret to predict whether it will rain tomorrow based on weather-related inputs. The app features a modern, weather-inspired UI with a glassmorphism design and smooth animations.
-
+![](images/image.png)
 ## Features
 - Predicts rain based on inputs: Humidity (3pm), Sunshine, Pressure (3pm), Cloud Cover (3pm), and Pressure (9am).
 - Uses a pre-trained PyCaret classification model.
@@ -63,4 +63,5 @@ uvicorn main:app
 - Jinja2: Templating engine for rendering HTML.
 - Pandas: Data manipulation for input processing.
 - CSS: Custom styling with animations and responsive design.
+
 

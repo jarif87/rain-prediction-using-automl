@@ -1,0 +1,9 @@
+fastapi==0.115.13
+Jinja2==3.1.6
+numpy==1.26.4
+pydantic==2.11.7
+uvicorn==0.34.3
+scikit-learn==1.4.2
+python-multipart
+pycaret==3.3.2
+pandas==2.1.4
